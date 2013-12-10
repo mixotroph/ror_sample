@@ -1,4 +1,4 @@
-== Ruby on Rails Sampleapp
+# Ruby on Rails Sampleapp
 
 by [Christoph van Heteren-Frese](mailto:c.vhf@fu-berlin.de)
 
